@@ -1,0 +1,21 @@
+.Form_1  input{
+    width: 700px;
+}
+
+.Form_1 label {
+    margin: 5px 0px;
+}
+
+.Form_principal {
+    background-color: rgb(235, 235, 171);
+}
+
+button {
+    margin: 10px 0px;
+}
+
+#Mensagem_destinatario {
+    width: 700px;
+}
+
+
